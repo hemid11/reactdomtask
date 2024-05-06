@@ -1,0 +1,28 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Azerbaijan",
+            "population": 83000000,
+            "flagImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAYS-pi99UhOgMrVClQMIZgBeINy57Gs9iOOP6oXvBg&s",
+            "capital": "Baku",
+            "description": "Azerbaycan 7iqlim qursagindan 6sinin oldugu az olkeden biridir"
+        },
+        {
+            "id": 2,
+            "name": "Turkey",
+            "population": 82000000,
+            "flagImg": "https://example.com/turkey-flag.jpg",
+            "capital": "Ankara",
+            "description": "Turkey is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkans in Southeast Europe."
+        },
+        {
+            "id": 3,
+            "name": "USA",
+            "population": 328000000,
+            "flagImg": "https://example.com/usa-flag.jpg",
+            "capital": "Washington D.C.",
+            "description": "The United States of America (USA), commonly known as the United States (U.S. or US), is a country primarily located in North America."
+        }
+    ]
+}
